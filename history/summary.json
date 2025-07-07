@@ -58,18 +58,20 @@
     "url": "https://nc.gbx.tools",
     "icon": "https://icons.duckduckgo.com/ip3/nc.gbx.tools.ico",
     "slug": "nc-gbx-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1049,
-    "timeDay": 1012,
-    "timeWeek": 1034,
-    "timeMonth": 1049,
-    "timeYear": 1049,
-    "dailyMinutesDown": {}
+    "time": 1035,
+    "timeDay": 921,
+    "timeWeek": 1009,
+    "timeMonth": 1035,
+    "timeYear": 1035,
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   },
   {
     "name": "uotd.gbx.tools",
