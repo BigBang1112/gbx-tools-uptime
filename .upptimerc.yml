@@ -7,6 +7,8 @@ sites:
     url: https://gbx.tools
   - name: explorer.gbx.tools
     url: https://explorer.gbx.tools
+  - name: old.explorer.gbx.tools
+    url: https://old.explorer.gbx.tools
   - name: io.gbx.tools
     url: https://io.gbx.tools
   - name: nc.gbx.tools
