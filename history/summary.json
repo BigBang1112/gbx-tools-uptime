@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gbx.tools.ico",
     "slug": "gbx-tools",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 787,
     "timeDay": 422,
     "timeWeek": 740,
@@ -47,9 +47,9 @@
     "url": "https://3d.gbx.tools",
     "icon": "https://icons.duckduckgo.com/ip3/3d.gbx.tools.ico",
     "slug": "3d-gbx-tools",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -59,6 +59,7 @@
     "timeMonth": 1343,
     "timeYear": 1313,
     "dailyMinutesDown": {
+      "2025-08-19": 0,
       "2025-07-18": 27
     }
   },
