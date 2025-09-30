@@ -13,6 +13,10 @@ sites:
     url: https://io.gbx.tools
   - name: nc.gbx.tools
     url: https://nc.gbx.tools
+  - name: revalidate.gbx.tools (frontend)
+    url: https://revalidate.gbx.tools
+  - name: revalidate.gbx.tools (API)
+    url: https://api.revalidate.gbx.tools
   - name: uotd.gbx.tools
     url: https://uotd.gbx.tools
   - name: old.explorer.gbx.tools
